@@ -6,7 +6,7 @@ layout: home
 title: Better informatics for everyone
 ---
 
-## [Inf1](/inf1/)
+## [Inf1](./inf1/)
 
 
 
