@@ -18,6 +18,8 @@ email: us@betterinformatics.com
 description: Edinburgh Inf students
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://betterinformatics.com" # the base hostname & protocol for your site, e.g. http://example.com
+github: https://github.com/Visgean/betterinfjekyllexperiment
+
 
 # Build settings
 markdown: kramdown
